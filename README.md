@@ -10,10 +10,10 @@ Je suis un **développeur en formation**, passionné par la tech, l’animation 
 > Actuellement en formation pour maîtriser tout ce qui touche à l'environnement COBOL / Mainframe / SQL etc.
 
 🛠️ Compétences en cours d'acquisition :
-- Swift / SwiftUI
 - COBOL
 - Git & GitHub
 - SQL / ProsgreSQL
+- Swift / SwiftUI
 - HTML / CSS 
 
 ## 💡 À propos de moi
