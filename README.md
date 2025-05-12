@@ -20,7 +20,7 @@ Je suis un **développeur en formation**, passionné par la tech, l’animation 
 
 En dehors du code, je suis un vrai passionné de :
 - 🇯🇵 **Animation japonaise**
-- 🍣 **Cuisine** — de la street food aux plats maison en passant par les expériences culinaires du monde entier
+- 🍕 **Cuisine** — de la street food aux plats maison en passant par les expériences culinaires du monde entier
 - 🤾‍♂️ **Handball** — ancien pratiquant, ancien arbitre
 - ⚡ **Harry Potter**
 - 🧙‍♂️ **Le Seigneur des Anneaux**
