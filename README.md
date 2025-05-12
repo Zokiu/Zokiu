@@ -8,6 +8,7 @@ Je suis un **développeur en formation**, passionné par la tech, l’animation 
 🎓 **Formation COBOL**  
 [SIMPLON]  
 > Actuellement en formation pour maîtriser tout ce qui touche à l'environnement COBOL / Mainframe / SQL etc.
+
 🎓 **Formation Swift/SwiftUI**  
 [SIMPLON]
 > J'ai suivi l'Apple Foundation Program et fini mon projet de groupe qui consistait à créer une ébauche d'application mobile.
