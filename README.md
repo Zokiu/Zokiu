@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Zokiu !
 
 Bienvenue sur mon GitHub ! 🎉  
-Je suis un **développeur en formation**, passionné par la tech, l’animation japonaise, la bonne bouffe 🍜 et le handball 🤾‍♂️.
+Je suis un **développeur en formation**, passionné par la tech, l’animation japonaise, la bonne bouffe, le métal et le handball.
 
 ## 👨‍💻 Parcours et formation
 
@@ -24,6 +24,7 @@ En dehors du code, je suis un vrai passionné de :
 - 🤾‍♂️ **Handball** — ancien pratiquant, ancien arbitre
 - ⚡ **Harry Potter**
 - 🧙‍♂️ **Le Seigneur des Anneaux**
+- 🤘  **Métal**
 
 ## 📫 Me contacter
 
