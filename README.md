@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Zokiu !
 
 Bienvenue sur mon GitHub ! 🎉  
-Je suis un **développeur web full-stack en formation**, passionné par la tech, l’animation japonaise, la bonne bouffe 🍜 et le handball 🤾‍♂️.
+Je suis un **développeur en formation**, passionné par la tech, l’animation japonaise, la bonne bouffe 🍜 et le handball 🤾‍♂️.
 
 ## 👨‍💻 Parcours et formation
 
