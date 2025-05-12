@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Zokiu !
 
-<!--
-**Zokiu/Zokiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon GitHub ! 🎉  
+Je suis un **développeur web full-stack en formation**, passionné par la tech, l’animation japonaise, la bonne bouffe 🍜 et le handball 🤾‍♂️.
 
-Here are some ideas to get you started:
+## 👨‍💻 Parcours et formation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Formation COBOL**  
+[SIMPLON]  
+> Actuellement en formation pour maîtriser tout ce qui touche à l'environnement COBOL / Mainframe / SQL etc.
+
+🛠️ Compétences en cours d'acquisition :
+- Swift / SwiftUI
+- COBOL
+- Git & GitHub
+- SQL / ProsgreSQL
+- HTML / CSS 
+
+## 💡 À propos de moi
+
+En dehors du code, je suis un vrai passionné de :
+- 🇯🇵 **Animation japonaise**
+- 🍣 **Cuisine** — de la street food aux plats maison en passant par les expériences culinaires du monde entier
+- 🤾‍♂️ **Handball** — ancien pratiquant, ancien arbitre
+- ⚡ **Harry Potter**
+- 🧙‍♂️ **Le Seigneur des Anneaux**
+
+## 📫 Me contacter
+
+- 🔗 [Mon LinkedIn](https://www.linkedin.com/in/terry-serretta-217388318/)
+- 📧 Email : terry.serretta@gmail.com
+
+---
+
+✨ Merci de visiter mon profil, n’hésitez pas à jeter un œil à mes projets ou à me contacter pour échanger !
+
