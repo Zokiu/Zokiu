@@ -16,7 +16,7 @@ Je suis un **développeur en formation**, passionné par la tech, l’animation 
 🛠️ Compétences en cours d'acquisition :
 - COBOL
 - Git & GitHub
-- SQL / ProsgreSQL
+- SQL / PostgreSQL
 - Swift / SwiftUI
 - HTML / CSS 
 
